@@ -1,0 +1,3 @@
+-keep class android.app.Application { <init>(); }
+-keep class com.example.fp2Final.MainActivity { <init>(); }
+-keep class com.microsoft.identity.client.BrowserTabActivity { <init>(); }

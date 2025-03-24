@@ -1,0 +1,99 @@
+# List of SDK dependencies of this app, this information is also included in an encrypted form in the APK.
+# For more information visit: https://d.android.com/r/tools/dependency-metadata
+
+library {
+  maven_library {
+    groupId: "org.jetbrains.kotlin"
+    artifactId: "kotlin-stdlib"
+    version: "1.9.21"
+  }
+  digests {
+    sha256: ";G\223\023\253l\256\244\345\342]=\356\214\250\f0,\211\272s\341\257M\257\252\020\017n\371)j"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "org.jetbrains"
+    artifactId: "annotations"
+    version: "13.0"
+  }
+  digests {
+    sha256: "\254\342\241\r\310\342\325\3754\222^\312\300>I\210\262\300\370Qe\f\224\270\316\364\233\241\275\021\024x"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "io.flutter"
+    artifactId: "armeabi_v7a_release"
+    version: "1.0.0-36335019a8eab588c3c2ea783c618d90505be233"
+  }
+  digests {
+    sha256: "\270\203]Z 1\345{\220\0328\340\357e\337D\366\372\347\006;\371\314jl*\n:\253D7\241"
+  }
+  repo_index {
+    value: 2
+  }
+}
+library {
+  maven_library {
+    groupId: "io.flutter"
+    artifactId: "arm64_v8a_release"
+    version: "1.0.0-36335019a8eab588c3c2ea783c618d90505be233"
+  }
+  digests {
+    sha256: "\000\362c\341\247*\301\366\223\020W\261}\037\272\241\201\262\033\205\345xha\344D\217\2627<\344$"
+  }
+  repo_index {
+    value: 2
+  }
+}
+library {
+  maven_library {
+    groupId: "io.flutter"
+    artifactId: "x86_64_release"
+    version: "1.0.0-36335019a8eab588c3c2ea783c618d90505be233"
+  }
+  digests {
+    sha256: "\331\255\340\200$aB\240\352\376\025\334\264a\364kc\361\216\310(\227C\025,\226\'I \r\035d"
+  }
+  repo_index {
+    value: 2
+  }
+}
+library {
+  digests {
+    sha256: "_b\002\210\354\3655s\345V\202n\204\371\243n\270\211)\207\341 \3443t\r\002,q\266\251\236"
+  }
+}
+library_dependencies {
+  library_dep_index: 1
+}
+module_dependencies {
+  module_name: "base"
+  dependency_index: 0
+  dependency_index: 2
+  dependency_index: 3
+  dependency_index: 4
+  dependency_index: 5
+}
+repositories {
+  maven_repo {
+    url: "https://dl.google.com/dl/android/maven2/"
+  }
+}
+repositories {
+  maven_repo {
+    url: "https://repo.maven.apache.org/maven2/"
+  }
+}
+repositories {
+  maven_repo {
+    url: "https://storage.googleapis.com/download.flutter.io"
+  }
+}

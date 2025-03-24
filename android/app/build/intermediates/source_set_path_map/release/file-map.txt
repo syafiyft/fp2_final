@@ -1,0 +1,8 @@
+com.example.fp2Final.app-pngs-0 /Users/syafiyft/StudioProjects/fp2_final/android/app/build/generated/res/pngs/release
+com.example.fp2Final.app-resValues-1 /Users/syafiyft/StudioProjects/fp2_final/android/app/build/generated/res/resValues/release
+com.example.fp2Final.app-packageReleaseResources-2 /Users/syafiyft/StudioProjects/fp2_final/android/app/build/intermediates/incremental/release/packageReleaseResources/merged.dir
+com.example.fp2Final.app-packageReleaseResources-3 /Users/syafiyft/StudioProjects/fp2_final/android/app/build/intermediates/incremental/release/packageReleaseResources/stripped.dir
+com.example.fp2Final.app-merged-not-compiled-resources-4 /Users/syafiyft/StudioProjects/fp2_final/android/app/build/intermediates/merged-not-compiled-resources/release
+com.example.fp2Final.app-merged_res-5 /Users/syafiyft/StudioProjects/fp2_final/android/app/build/intermediates/merged_res/release
+com.example.fp2Final.app-main-6 /Users/syafiyft/StudioProjects/fp2_final/android/app/src/main/res
+com.example.fp2Final.app-release-7 /Users/syafiyft/StudioProjects/fp2_final/android/app/src/release/res

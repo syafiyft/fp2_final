@@ -1,0 +1,7 @@
+com.example.fp2Final.app-pngs-0 /Users/syafiyft/StudioProjects/fp2_final/android/app/build/generated/res/pngs/debug
+com.example.fp2Final.app-resValues-1 /Users/syafiyft/StudioProjects/fp2_final/android/app/build/generated/res/resValues/debug
+com.example.fp2Final.app-packageDebugResources-2 /Users/syafiyft/StudioProjects/fp2_final/android/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.example.fp2Final.app-packageDebugResources-3 /Users/syafiyft/StudioProjects/fp2_final/android/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.example.fp2Final.app-merged_res-4 /Users/syafiyft/StudioProjects/fp2_final/android/app/build/intermediates/merged_res/debug
+com.example.fp2Final.app-debug-5 /Users/syafiyft/StudioProjects/fp2_final/android/app/src/debug/res
+com.example.fp2Final.app-main-6 /Users/syafiyft/StudioProjects/fp2_final/android/app/src/main/res
