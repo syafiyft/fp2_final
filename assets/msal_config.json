@@ -3,6 +3,7 @@
     {
       "type": "AAD",
       "authority_url": "https://login.microsoftonline.com/common",
+      "redirect_uri": "msauth://com.example.fp2_final/hyOO%2FXSiCQvGcPDoA8%2F2xATQZi8%3D",
       "audience": {
         "type": "AzureADandPersonalMicrosoftAccount"
       }
