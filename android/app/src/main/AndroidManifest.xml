@@ -4,6 +4,7 @@
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
 
+
         <activity
             android:name=".MainActivity"
             android:exported="true"
@@ -32,8 +33,9 @@
                 <category android:name="android.intent.category.DEFAULT" />
                 <category android:name="android.intent.category.BROWSABLE" />
                 <data
-                    android:host="auth"
-                    android:scheme="c02bb0d9-9839-404b-a146-ccf46e18df6e" />
+                    android:host="com.example.fp2_final"
+                    android:path="/hyOO/XSiCQvGcPDoA8/2xATQZi8="
+                    android:scheme="msauth" />
             </intent-filter>
         </activity>
 
